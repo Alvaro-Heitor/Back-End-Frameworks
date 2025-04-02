@@ -1,1 +1,1 @@
-Este repositorio e referente a cadeira de Back-end.
+Este repositório é referente ao nosso trabalho que envolve a cadeira de: Desenvolvimento Backend Frameworks.
